@@ -1,5 +1,5 @@
-download trainset/ at 
-download testset/ at 
+download trainset/ at https://drive.google.com/drive/folders/1fV5E3BvEp7ruHJe3Id9A1qe8EYZXgPc4?usp=sharing
+download testset/ at https://1drv.ms/u/s!AoUFvvVEImrJ6nUhAIDhk2hvrizO?e=cZ4mJG
 
 
 FILES AND FOLDERS AND ASSUMPTIONS
